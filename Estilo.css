@@ -4,16 +4,15 @@ body {
 
 h1 {
     text-decoration: underline;
-    color: white;
+    color: rgb(255, 252, 252);
     margin-bottom: 50px;
     text-align: center;
 }
 
 h2 {
-    color: rgb(230, 224, 224);
+    color: rgb(250, 245, 245);
     width: 100px;
     margin-left: 30px;
-    background-color: rgb(0, 13, 49);
 }
 
 .Completos {
