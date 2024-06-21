@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(24, 23, 23);
+}
+
+h1 {
+    text-decoration: underline;
+    color: white;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(230, 224, 224);
+    width: 100px;
+    margin-left: 30px;
+    background-color: rgb(0, 13, 49);
+}
+
+.Completos {
+    color: aquamarine;
+    padding-left: 30px;
+}
+
+.Aprendendo {
+    color: rgb(202, 22, 22);
+}
+
+h5 {
+    color: white;
+    text-align: end;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+
