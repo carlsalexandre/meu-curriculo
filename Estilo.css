@@ -1,40 +1,40 @@
 body {
-    background-color: rgb(24, 23, 23);
+    background-color: rgb(201, 198, 198);
 }
 
 h1 {
     text-decoration: underline;
-    color: rgb(255, 252, 252);
+    color: rgb(5, 5, 5);
     margin-bottom: 50px;
     text-align: center;
 }
 
 h2 {
-    color: rgb(250, 245, 245);
+    color: rgb(7, 7, 7);
     width: 100px;
     margin-left: 30px;
 }
 
-.Completos {
-    color: aquamarine;
-    padding-left: 30px;
+.completos {
+    color: rgb(6, 94, 64);
 }
 
-.Aprendendo {
+.aprendendo {
     color: rgb(202, 22, 22);
 }
 
 h5 {
-    color: white;
+    color: rgb(10, 10, 10);
     text-align: end;
 }
 
 p {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 ul {
-    color: white;
+    color: rgb(3, 3, 3);
+    font-size: 130%;
 }
 
 a {
